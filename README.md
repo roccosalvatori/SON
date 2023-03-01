@@ -1,4 +1,3 @@
-# SON
 # Projet SON - 3TC
 
 In this project, I program an embedded system (the Teensy 4.0: https://www.pjrc.com/store/teensy40.html) for real-time audio signal processing applications. The goal is to learn the basics of audio software architecture, audio signal processing in C++, and embedded system programming (C++).
