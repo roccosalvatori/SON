@@ -12,5 +12,5 @@ The EffectsBox.ino is the main file of the project, containing the different sou
 
 The AudioSample.cpp contains an audiio file that has been converted to an array.
 
-The wavconverter.c is a program that converts a WAV file into an array.
+The wavconverter.c file is a program that converts a WAV file into an array.
 
