@@ -49,8 +49,6 @@ AudioMixer4              mixer5;
 
 AudioConnection          patchCord1(sound0, 0, left_BitCrusher, 0);
 AudioConnection          patchCord2(sound0, 1, right_BitCrusher, 0);
-AudioConnection          patchCord3(sound0, 0, l_myEffect, 0);
-AudioConnection          patchCord4(sound0, 1, r_myEffect, 0);
 AudioConnection          patchCord5(left_BitCrusher, 0, mixer1, 0);
 AudioConnection          patchCord6(right_BitCrusher, 0, mixer2, 0);
 AudioConnection          patchCord9(mixer1, 0, mixer5, 0);
