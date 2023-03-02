@@ -6,3 +6,11 @@ The 3 weeks project period started with a workshop on embedded real-time audio s
 
 After this period, various project ideas were suggested to focus more on DSP or on the "product/hardware" aspect.
 
+The Arduino repository contains all the files that are nedded to operate the Teensy PCB.
+
+The EffectsBox.ino is the main file of the project, containing the different sound effects.
+
+The AudioSample.cpp contains an audiio file that has been converted to an array.
+
+The wavconverter.c is a program that converts a WAV file into an array.
+
